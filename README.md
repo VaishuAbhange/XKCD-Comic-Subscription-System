@@ -18,7 +18,7 @@ Forms always visible with correct name and id attributes.
 Emails in specified HTML formats:
 Verification: <p>Your verification code is: <strong>code</strong></p>
 Unsubscribe: <p>To confirm un-subscription, use this code: <strong>code</strong></p>
-Comic: <h2>XKCD Comic: XKCD Comic Subscription System</h2><img src="[URL]" alt="XKCD Comic"><p><a href="[unsubscribe_url]" id="unsubscribe-button">Unsubscribe</a></p>
+Comic: <h2>XKCD Comic: XKCD Comic Subscription System</h2><p><a href="[unsubscribe_url]" id="unsubscribe-button">Unsubscribe</a></p>
 
 
 Daily task automation (Task Scheduler on Windows, replacing CRON).

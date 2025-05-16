@@ -187,7 +187,7 @@ C:\xampp\php\php.exe cron.php
 
 Check MailHog:
 Subject: Your XKCD Comic
-Body: <h2>XKCD Comic: [Title]</h2><img src="[URL]" alt="XKCD Comic"><p><a href="http://localhost/project-root/src/unsubscribe.php" id="unsubscribe-button">Unsubscribe</a></p>
+Body: <h2>XKCD Comic: XKCD Comic Subscription System</h2> alt="XKCD Comic"><p><a href="http://localhost/project-root/src/unsubscribe.php" id="unsubscribe-button">Unsubscribe</a></p>
 
 
 Click the unsubscribe link to confirm it opens unsubscribe.php.

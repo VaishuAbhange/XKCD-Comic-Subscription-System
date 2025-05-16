@@ -1,4 +1,4 @@
-<h1>XKCD Comic Subscription System
+<h1>XKCD Comic Subscription System</h1>
 Project Description
 The XKCD Comic Subscription System is a PHP-based web application that allows users to subscribe to daily XKCD comics via email. Users register their email address, receive a verification code, and, upon verification, are added to a subscription list. A daily task sends a random XKCD comic to all subscribers. Users can unsubscribe using a similar verification process. The system is designed to run on Windows using XAMPP, PHP 8.3, and MailHog for email testing, with Task Scheduler automating daily comic delivery.
 Features

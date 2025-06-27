@@ -10,7 +10,7 @@ Local Email Testing: MailHog captures emails for testing without sending to real
 No Database: Registered emails are stored in registered_emails.txt.
 HTML Emails: Emails use specified HTML formats with From: no-reply@example.com.
 
-Project Requirements
+Project Requirements.
 
 PHP 8.3 with mail() function.
 Web server (XAMPP’s Apache).
